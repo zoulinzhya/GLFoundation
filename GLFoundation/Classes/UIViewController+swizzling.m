@@ -3,7 +3,7 @@
 //  learnMasonry
 //
 //  Created by zoulin on 2017/10/12.
-//  Copyright © 2017年 huangyibiao. All rights reserved.
+//  Copyright © 2017年 zoulin. All rights reserved.
 //
 
 #import "UIViewController+swizzling.h"
