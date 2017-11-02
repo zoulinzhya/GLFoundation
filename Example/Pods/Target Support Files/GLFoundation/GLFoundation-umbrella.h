@@ -11,6 +11,8 @@
 #endif
 
 #import "Constraints.h"
+#import "NSDictionary+Extend.h"
+#import "UIImage+Extend.h"
 #import "UITableView+Extend.h"
 #import "UIViewController+swizzling.h"
 

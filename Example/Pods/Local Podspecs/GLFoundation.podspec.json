@@ -1,6 +1,6 @@
 {
   "name": "GLFoundation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A tool kits of GLFoundation.",
   "description": "A tool kits of GLFoundation.",
   "homepage": "https://github.com/zoulinzhya/GLFoundation",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/zoulinzhya/GLFoundation.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

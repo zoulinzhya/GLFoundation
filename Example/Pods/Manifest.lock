@@ -27,7 +27,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - GLFoundation (0.1.0)
+  - GLFoundation (0.1.1)
   - JSONModel (1.7.0)
   - KSGuide (1.5.1)
   - Masonry (0.6.4)
@@ -61,7 +61,7 @@ SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   CocoaLumberjack: f58d8a19629f4d8379ae14bb3534def24161430e
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  GLFoundation: aac7d7fb1c50ff7d5a81a5c91622f409c1072808
+  GLFoundation: 09d63bebe9f1cbd1ddb5fde01821ee52572d9c17
   JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
   KSGuide: 316498e0cb82e817919ed3b25a7044a4d7934830
   Masonry: 281802d04d787ea2973179ee8bcb50500579ede2

@@ -2,7 +2,7 @@
 //  UIImage+Extend.h
 //  GtOilStorage
 //
-//  Created by tiangui on 7/25/16.
+//  Created by zoulin on 7/25/16.
 //  Copyright © 2016 zoulin. All rights reserved.
 //
 
