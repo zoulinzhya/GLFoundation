@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GLFoundation
 
 [![CI Status](http://img.shields.io/travis/zoulinzhya/GLFoundation.svg?style=flat)](https://travis-ci.org/zoulinzhya/GLFoundation)
@@ -27,3 +28,6 @@ zoulinzhya, zoulinzhya@163.com
 ## License
 
 GLFoundation is available under the MIT license. See the LICENSE file for more info.
+=======
+# GLFoundation
+>>>>>>> 4c8a0a82ad826b66055490aaefad4fe9d9bb9bfa
