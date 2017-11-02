@@ -1,0 +1,6 @@
+framework module KSGuide {
+  umbrella header "KSGuide-umbrella.h"
+
+  export *
+  module * { export * }
+}

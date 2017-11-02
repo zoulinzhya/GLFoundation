@@ -1,7 +1,21 @@
+
+platform :ios, '8.0'
+
 use_frameworks!
 
 target 'GLFoundation_Example' do
   pod 'GLFoundation', :path => '../'
+  
+  pod 'AFNetworking', '~> 3.0'
+  pod 'Masonry', '~> 0.6.2'
+  pod 'SDWebImage', '~> 3.7.3'
+  pod 'CocoaLumberjack', '~> 2.0.1'
+  pod 'XMLDictionary', '~> 1.4'
+  pod 'MJRefresh'
+  pod 'JSONModel'
+  pod 'KSGuide', '~> 1.2'  #启动的引导页
+  pod 'UIView+draggable'             #可拖拽的UIView
+  pod 'pop', '~> 1.0.9'   #TableCell  折叠和展开动画 多关注facebook的github
 
   target 'GLFoundation_Tests' do
     inherit! :search_paths
