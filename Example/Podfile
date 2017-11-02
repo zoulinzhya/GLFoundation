@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GLFoundation_Example' do
+  pod 'GLFoundation', :path => '../'
+
+  target 'GLFoundation_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
